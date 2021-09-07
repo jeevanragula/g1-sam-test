@@ -1,5 +1,7 @@
 # g1-sam-test
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/7fa17455-f09b-42f2-b1a5-1c8249b60513.svg)](https://app.soluble.cloud/repos/details/github.com/jeevanragula/g1-sam-test)  
+
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
 - HelloWorldFunction/src/main - Code for the application's Lambda function.
